@@ -1,4 +1,4 @@
-module github.com/go-chi/docgen
+module github.com/henneptech/docgen
 
 go 1.16
 
